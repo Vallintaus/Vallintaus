@@ -1,7 +1,5 @@
 ### Hello there!
 
-
-- 🔭 I’m currently working on LAMP
 - 🌱 I’m currently learning PHPUnit
 
 
