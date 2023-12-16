@@ -1,6 +1,6 @@
 ### Hello there!
 
-- 🌱 I’m currently learning PHPUnit
+- 🌱 I’m currently learning LAMP
 
 
 <!--h1 without bottom border-->
