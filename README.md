@@ -1,6 +1,6 @@
 ### Hello there!
 
-- 🌱 I’m currently learning LAMP
+<a href="https://www.jusadev.com">My own wordpress firm JusaDev</a>
 
 
 <!--h1 without bottom border-->
